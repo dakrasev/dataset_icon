@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 // --- настройки ---
-const INPUT_FILE = process.argv[2] || "cleanDataset.csv";
+const INPUT_FILE = process.argv[2] || "cleanDataset2.csv";
 const OUTPUT_FILE = process.argv[3] || "uniquePersonalii.csv";
 const COLUMN_NAME = "Персоналии";
 const CSV_SEPARATOR = ";";
