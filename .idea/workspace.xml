@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73e3335e-c47d-4e01-ba1b-d903ce624e68" name="Changes" comment="V2">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/cleanDataset2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/uniquePersonalii.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dakrasev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dakrasev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dakrasev/dataset_icon.git",
-    "accountId": "99406ab5-80db-4f12-936b-61b37a2b7269"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dakrasev/dataset_icon.git&quot;,
+    &quot;accountId&quot;: &quot;99406ab5-80db-4f12-936b-61b37a2b7269&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -65,8 +69,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/files" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -92,7 +97,8 @@
       <workItem from="1775590053080" duration="91000" />
       <workItem from="1775590170511" duration="433000" />
       <workItem from="1775590841780" duration="9666000" />
-      <workItem from="1775606300756" duration="1540000" />
+      <workItem from="1775606300756" duration="1950000" />
+      <workItem from="1775653068466" duration="3694000" />
     </task>
     <task id="LOCAL-00001" summary="V2">
       <option name="closed" value="true" />
@@ -102,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775615366639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="V2">
+      <option name="closed" value="true" />
+      <created>1775615588866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775615588866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,12 +130,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <url>file://$PROJECT_DIR$/src/cleanPersonalii_v2.js</url>
           <line>267</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <url>file://$PROJECT_DIR$/src/cleanPersonalii_v2.js</url>
           <line>271</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
