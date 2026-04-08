@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73e3335e-c47d-4e01-ba1b-d903ce624e68" name="Changes" comment="">
+    <list default="true" id="73e3335e-c47d-4e01-ba1b-d903ce624e68" name="Changes" comment="V2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cleanDataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cleanDataset2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/files/cleanDataset2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataset_icons_NEW_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/files/dataset_icons_NEW_2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extractUniquePersonalii.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extractUniquePersonalii.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uniquePersonalii.csv" beforeDir="false" afterPath="$PROJECT_DIR$/files/uniquePersonalii.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dakrasev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dakrasev/dataset_icon.git",
+    "accountId": "99406ab5-80db-4f12-936b-61b37a2b7269"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -86,12 +92,25 @@
       <workItem from="1775590053080" duration="91000" />
       <workItem from="1775590170511" duration="433000" />
       <workItem from="1775590841780" duration="9666000" />
-      <workItem from="1775606300756" duration="1303000" />
+      <workItem from="1775606300756" duration="1540000" />
     </task>
+    <task id="LOCAL-00001" summary="V2">
+      <option name="closed" value="true" />
+      <created>1775615366639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775615366639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V2" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
