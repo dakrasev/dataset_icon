@@ -2,7 +2,7 @@
  * compramis_sort.js
  * Сравнивает колонку "Персоналии" в двух CSV-файлах и создаёт файл-отчёт.
  *
- * Запуск: node compramis_sort.js
+ * Запуск: node compramis.js
  */
 
 const fs = require('fs');
